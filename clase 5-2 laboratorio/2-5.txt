@@ -1,0 +1,6 @@
+-creamos la estructura proveedor para no tener que repetir datos en caso de tener varios productos que compartane el proveedor
+-creamos funcion hardcodear
+-https://github.com/codeutnfra
+-tener opcion de ordenar segun datos del producto o de la estructura del proveedor
+-
+-
