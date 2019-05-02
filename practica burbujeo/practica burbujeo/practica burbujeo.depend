@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1556809184 source:/home/alumno/Escritorio/practica burbujeo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1556836243 source:c:\users\lorena\desktop\nueva carpeta\programacion-i-laboratorio-i-master\practica burbujeo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"herramientas.h"
+	<stdio.h>
+
+1556836194 c:\users\lorena\desktop\nueva carpeta\programacion-i-laboratorio-i-master\practica burbujeo\herramientas.h
+
