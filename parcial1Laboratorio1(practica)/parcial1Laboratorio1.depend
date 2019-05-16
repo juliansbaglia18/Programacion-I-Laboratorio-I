@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1557950161 source:c:\users\lorena\desktop\utn\parcial1laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"JulianSbaglia.h"
+	"arrayPeliculasActores.h"
+
+1557738485 c:\users\lorena\desktop\utn\parcial1laboratorio1\sbaglia.h
+
+1557949699 c:\users\lorena\desktop\utn\parcial1laboratorio1\arraypeliculasactores.h
+
+1557949687 source:c:\users\lorena\desktop\utn\parcial1laboratorio1\arraypeliculasactores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"JulianSbaglia.h"
+	"arrayPeliculasActores.h"
+
+1557910830 c:\users\lorena\desktop\utn\parcial1laboratorio1\juliansbaglia.h
+
+1557946487 source:c:\users\lorena\desktop\utn\parcial1laboratorio1\juliansbaglia.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1557946487 source:c:\users\lorena\desktop\parcial1laboratorio1(practica)\juliansbaglia.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1557988695 source:c:\users\lorena\desktop\parcial1laboratorio1(practica)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"JulianSbaglia.h"
+	"arrayPeliculasActores.h"
+
+1557910830 c:\users\lorena\desktop\parcial1laboratorio1(practica)\juliansbaglia.h
+
+1557988695 c:\users\lorena\desktop\parcial1laboratorio1(practica)\arraypeliculasactores.h
+
+1557988695 source:c:\users\lorena\desktop\parcial1laboratorio1(practica)\arraypeliculasactores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"JulianSbaglia.h"
+	"arrayPeliculasActores.h"
+
