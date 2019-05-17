@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558103848 source:c:\users\alumno\desktop\clase 5-17 programacion\punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
