@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1558564539 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\clase 5-17 programacion\punteros practica\bibliotecapractica.c
+
+1558639454 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\clase 5-17 programacion\punteros practica\sbaglia.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"sbaglia.h"
+
+1558644049 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\clase 5-17 programacion\punteros practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1558639454 c:\users\lorena\desktop\programacion-i-laboratorio-i-master\clase 5-17 programacion\punteros practica\sbaglia.h
+
