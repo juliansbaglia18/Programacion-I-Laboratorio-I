@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1558710791 source:c:\users\alumno\desktop\clase 5-24 programacion\memoriadinamica2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"sbaglia.h"
+
+1558710791 c:\users\alumno\desktop\clase 5-24 programacion\memoriadinamica2\empleado.h
+
+1558645529 c:\users\alumno\desktop\clase 5-24 programacion\memoriadinamica2\sbaglia.h
+
+1558710871 source:c:\users\alumno\desktop\clase 5-24 programacion\memoriadinamica2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"sbaglia.h"
+

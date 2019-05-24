@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558704716 source:c:\users\alumno\desktop\clase 5-24 programacion\memoriadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sbaglia.h"
+
+1558645529 c:\users\alumno\desktop\clase 5-24 programacion\memoriadinamica\sbaglia.h
+
