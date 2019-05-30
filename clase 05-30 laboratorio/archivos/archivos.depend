@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1559219037 source:c:\users\alumno\desktop\clase 05-30 laboratorio\archivos\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	"sbaglia.h"
+	"alumno.h"
+
+1558711550 c:\users\alumno\desktop\clase 05-30 laboratorio\archivos\sbaglia.h
+
+1559219630 c:\users\alumno\desktop\clase 05-30 laboratorio\archivos\alumno.h
+
+1559222932 source:c:\users\alumno\desktop\clase 05-30 laboratorio\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sbaglia.h"
+	"alumno.h"
+
