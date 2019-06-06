@@ -36,47 +36,38 @@ int main()
 
         case '1':
             //controller_loadFromText("data.csv",listaEmpleados);
-            system("cls");
             printf("opcion 1\n");
             system("pause");
             break;
         case '2':
-            system("cls");
             printf("opcion 2\n");
             system("pause");
             break;
         case '3':
-            system("cls");
             printf("opcion 3\n");
             system("pause");
             break;
         case '4':
-            system("cls");
             printf("opcion 4\n");
             system("pause");
             break;
         case '5':
-            system("cls");
             printf("opcion 5\n");
             system("pause");
             break;
         case '6':
-            system("cls");
             printf("opcion 6\n");
             system("pause");
             break;
         case '7':
-            system("cls");
             printf("opcion 7\n");
             system("pause");
             break;
         case '8':
-            system("cls");
             printf("opcion 8\n");
             system("pause");
             break;
         case '9':
-            system("cls");
             printf("opcion 9\n");
             system("pause");
             break;
@@ -91,7 +82,6 @@ int main()
             }
             break;*/
         case 27:
-            system("cls");
             printf("Seguro que desea salir?(s/n) \n");
             option[1] = tolower(getch());
             while(option[1] != 's' && option[1] != 'n')
@@ -113,7 +103,6 @@ int main()
             }
             break;
         default:
-            system("cls");
             printf("Opcion invalida");
             system("pause");
             break;
@@ -135,5 +124,6 @@ char menu()
     printf("9.Guardar los datos de los empleados en el archivo data.csv (modo binario).\nESC.Salir.\n");
     printf("\nElija una opcion: ");
     c=getche();
+    system("cls");
     return c;
 }
