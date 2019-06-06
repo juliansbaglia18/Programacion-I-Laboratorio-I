@@ -85,3 +85,45 @@
 
 1558644319 c:\users\lorena\desktop\utn\trabajo practico 3\tp3\win_32\sbaglia.h
 
+1559824508 source:c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559817266 c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\linkedlist.h
+
+1559817266 c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\employee.h
+
+1559824507 source:c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"sbaglia.h"
+
+1559828017 source:c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"sbaglia.h"
+
+1559817266 c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\controller.h
+
+1559817266 c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\sbaglia.h
+
+1559817266 source:c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
