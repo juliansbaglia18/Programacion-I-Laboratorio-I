@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1561101420 source:c:\users\lorena\desktop\practica parcial 2 lab y prog\practica archivos 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sbaglia.h"
+
+1561063962 c:\users\lorena\desktop\practica parcial 2 lab y prog\practica archivos 1\sbaglia.h
+
+1561063962 source:c:\users\lorena\desktop\practica parcial 2 lab y prog\practica archivos 1\sbaglia.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"sbaglia.h"
+

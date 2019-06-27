@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1561442796 source:c:\users\lorena\desktop\practica parcial 2 lab y prog\guardahorarios\juliansb.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"juliansb.h"
+
+1561442796 c:\users\lorena\desktop\practica parcial 2 lab y prog\guardahorarios\juliansb.h
+
+1561457410 source:c:\users\lorena\desktop\practica parcial 2 lab y prog\guardahorarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	"juliansb.h"
+
