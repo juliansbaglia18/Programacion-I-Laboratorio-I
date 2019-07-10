@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1562710194 source:c:\users\lorena\desktop\practica parcial 2 lab y prog\practica parcial 2 lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"employee.h"
+	"parser.h"
+
+1562709706 c:\users\lorena\desktop\practica parcial 2 lab y prog\practica parcial 2 lab\linkedlist.h
+
+1562709812 c:\users\lorena\desktop\practica parcial 2 lab y prog\practica parcial 2 lab\employee.h
+
+1562704285 c:\users\lorena\desktop\practica parcial 2 lab y prog\practica parcial 2 lab\parser.h
+
+1562710182 source:c:\users\lorena\desktop\practica parcial 2 lab y prog\practica parcial 2 lab\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"employee.h"
+
+1562709706 source:c:\users\lorena\desktop\practica parcial 2 lab y prog\practica parcial 2 lab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+
+1562698896 source:c:\users\lorena\desktop\practica parcial 2 lab y prog\practica parcial 2 lab\parser.c
+	<stdlib.h>
+	<stdio.h>
+	"parser.h"
+	"linkedList.h"
+	"employee.h"
+

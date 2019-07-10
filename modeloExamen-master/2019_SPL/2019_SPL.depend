@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1561641830 source:d:\demian murray\2019_spl\eempleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"eEmpleado.h"
+
+1561636888 source:d:\demian murray\2019_spl\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561636904 d:\demian murray\2019_spl\linkedlist.h
+
+1561640787 source:d:\demian murray\2019_spl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"eEmpleado.h"
+	"LinkedList.h"
+	"controller.h"
+
+1561641830 d:\demian murray\2019_spl\parser.h
+
+1561641830 d:\demian murray\2019_spl\eempleado.h
+
+1561641830 source:d:\demian murray\2019_spl\parser.c
+	<stdlib.h>
+	<stdio.h>
+	"parser.h"
+	"LinkedList.h"
+	"eEmpleado.h"
+
+1561641830 source:d:\demian murray\2019_spl\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"eEmpleado.h"
+	"LinkedList.h"
+	"controller.h"
+	"parser.h"
+
+1561641830 d:\demian murray\2019_spl\controller.h
+
