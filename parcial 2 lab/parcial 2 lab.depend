@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1562770239 source:c:\users\alumno\desktop\parcial 2 lab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+	"sbaglia.h"
+
+1562770092 c:\users\alumno\desktop\parcial 2 lab\linkedlist.h
+
+1562762218 c:\users\alumno\desktop\parcial 2 lab\sbaglia.h
+
+1562770839 source:c:\users\alumno\desktop\parcial 2 lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"sbaglia.h"
+	"pelicula.h"
+
+1562770160 c:\users\alumno\desktop\parcial 2 lab\pelicula.h
+
+1562762218 c:\users\alumno\desktop\parcial 2 lab\parser.h
+
+1562764242 source:c:\users\alumno\desktop\parcial 2 lab\parser.c
+	<stdlib.h>
+	<stdio.h>
+	"parser.h"
+	"linkedList.h"
+	"pelicula.h"
+	"sbaglia.h"
+
+1562770712 source:c:\users\alumno\desktop\parcial 2 lab\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sbaglia.h"
+	"pelicula.h"
+	"linkedList.h"
+
+1562762218 source:c:\users\alumno\desktop\parcial 2 lab\sbaglia.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"sbaglia.h"
+
